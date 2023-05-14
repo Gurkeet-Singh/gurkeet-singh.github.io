@@ -158,6 +158,8 @@ background-color: transparent;
     align-items: flex-start;
     justify-content: center ;
     flex-direction: column;
+
+    z-index: 7687;
 }
 .subheading {
     height: 10vh;
@@ -262,7 +264,7 @@ background-color: transparent;
     width: 100%;
 
     bottom: 0;
-    z-index: 3;
+    z-index: 1;
 }
 
 
