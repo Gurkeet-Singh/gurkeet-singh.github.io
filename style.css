@@ -390,6 +390,12 @@ background-color: transparent;
 .car3 {
     background-image: url(./python1.png);
 }
+.car4 {
+    background-image: url(./bpo1.png);
+}
+.car5 {
+    background-image: url(./medical-employees1.png);
+}
 .car-bg {
     background-size: cover;
     background-position: center;
